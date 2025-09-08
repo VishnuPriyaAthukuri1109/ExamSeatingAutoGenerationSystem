@@ -1,4 +1,5 @@
 {
+  //It tells us the name of the project
   "name": "esa-backend",
   "version": "1.0.0",
   "description": "",
